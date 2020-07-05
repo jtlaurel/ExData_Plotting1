@@ -1,4 +1,4 @@
-##This function will create a plot with 4 subplots contain the following:
+##This function will create a plot with 4 subplots containing the following:
 ##1. A plot of Global Active Power as a function of datetime
 ##2. A plot of Voltage as a function of datetime
 ##3. A plot of of all Sub metering categories as a function of datetime
